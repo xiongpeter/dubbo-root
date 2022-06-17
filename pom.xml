@@ -22,7 +22,7 @@
 
     <properties>
         <dubbo.version>2.6.1</dubbo.version>
-        <fastjson.version>1.2.29</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
     </properties>
 
 
